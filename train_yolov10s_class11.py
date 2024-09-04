@@ -7,7 +7,8 @@ model_yaml_path = "ultralytics/cfg/models/v10/yolov10s.yaml"
 # 数据集配置文件
 data_yaml_path = 'ultralytics/cfg/datasets/class11.yaml'
 # 预训练模型
-pre_model_name = 'yolov10s.pt'
+#pre_model_name = 'yolov10s.pt'
+pre_model_name = 'primary_class11s_best.pt'
 
 
 if __name__ == '__main__':
